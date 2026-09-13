@@ -1,24 +1,17 @@
- HEAD
-# E-Commerce Checkout System
-
-# E-Commerce Shopping Platform
- main
 # 🛒 E-Commerce Practice Project
 
 ## 📌 Overview
 
-A practical e-commerce project created to demonstrate business logic, Git fundamentals, and collaborative version control.
+A practical e-commerce project created to demonstrate business logic and collaborative version control using Git and GitHub.
 
 ## 🎯 Project Goals
 
 - Apply real-world business rules
 - Practice Git and GitHub workflows
-- Demonstrate feature-based development
+- Use feature-based development
 - Simulate collaborative software development
 
-## 🛍️ Planned Checkout Logic
-
-The checkout process will handle:
+## 🛍️ Checkout Features
 
 - Cart management
 - Stock validation
@@ -28,13 +21,10 @@ The checkout process will handle:
 
 ## 🔀 Git Workflow
 
-This project demonstrates:
-
-- Git initialization
-- Commits
-- Branching
-- Push and Pull
-- Pull Requests
+- Main branch
+- Feature branches
+- Pull requests
+- Code review
 - Merge conflict resolution
 - Clean commit history
 
@@ -46,10 +36,4 @@ This project demonstrates:
 
 ## 📊 Project Status
 
-🚧 In Progress
-## Checkout Features
-
-- Cart management
-- Stock validation
-- Promo code validation
-- Order total calculation
+Completed
