@@ -1,4 +1,8 @@
+ HEAD
 # E-Commerce Checkout System
+
+# E-Commerce Shopping Platform
+ main
 # 🛒 E-Commerce Practice Project
 
 ## 📌 Overview
