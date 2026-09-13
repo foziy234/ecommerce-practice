@@ -1,4 +1,4 @@
-# E-Commerce Practice Project
+# E-Commerce Checkout System
 # 🛒 E-Commerce Practice Project
 
 ## 📌 Overview
