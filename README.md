@@ -1,4 +1,8 @@
-# E-Commerce Practice Project
+ HEAD
+# E-Commerce Checkout System
+
+# E-Commerce Shopping Platform
+ main
 # 🛒 E-Commerce Practice Project
 
 ## 📌 Overview
@@ -43,3 +47,9 @@ This project demonstrates:
 ## 📊 Project Status
 
 🚧 In Progress
+## Checkout Features
+
+- Cart management
+- Stock validation
+- Promo code validation
+- Order total calculation
