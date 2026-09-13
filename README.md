@@ -1,4 +1,4 @@
-# E-Commerce Practice Project
+# E-Commerce Shopping Platform
 # 🛒 E-Commerce Practice Project
 
 ## 📌 Overview
