@@ -43,3 +43,9 @@ This project demonstrates:
 ## 📊 Project Status
 
 🚧 In Progress
+## Checkout Features
+
+- Cart management
+- Stock validation
+- Promo code validation
+- Order total calculation
